@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hey dude👋
+<!-- The main banner image -->
+<p align="center">
+  <img src="https://github.com/malak-muradd/malak-muradd/raw/main/8cf82ee02898dbaafff789f534bf6547" alt="Banner" width="100%">
+</p>
 
-<!--
-**malak-muradd/malak-muradd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- The centered greeting -->
+<h1 align="center">Hey dude, I'm mals </h1>
+<h3 align="center">A (trying hard to love )data science student </h3>
 
-Here are some ideas to get you started:
+<!-- Profile views counter badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=malak-muradd&color=black" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Your bullet points -->
+- 🌱 I’m currently learning **ML - DEEP LEARNING AND OTHERS**
+<p align="center">
+  <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=21262d&text_color=c9d1d9" alt="Spotify" />
+</p>
+
+
+
+
 -->
