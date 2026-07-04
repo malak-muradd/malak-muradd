@@ -1,7 +1,7 @@
 ## Hey dude👋
 <!-- The main banner image -->
 <p align="center">
-  <img src="https://github.com/malak-muradd/malak-muradd/raw/main/8cf82ee02898dbaafff789f534bf6547" alt="Banner" width="100%">
+  <img src="https://github.com/malak-muradd/malak-muradd/raw/main/8cf82ee02898dbaafff789f534bf6547.jpg" alt="Banner" width="100%">
 </p>
 
 <!-- The centered greeting -->
@@ -22,4 +22,4 @@
 
 
 
--->
+
