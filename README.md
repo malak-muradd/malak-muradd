@@ -10,7 +10,7 @@
 
 <!-- Profile views counter badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malak-muradd&color=black" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=malak-muradd&color=blue" alt="Profile views" />
 </p>
 
 <!-- Your bullet points -->
