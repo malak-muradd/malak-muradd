@@ -15,9 +15,7 @@
 
 <!-- Your bullet points -->
 - 🌱 I’m currently learning **ML - DEEP LEARNING AND OTHERS**
-<p align="center">
-  <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=21262d&text_color=c9d1d9" alt="Spotify" />
-</p>
+
 
 
 
