@@ -1,11 +1,11 @@
-## Hey dude👋
+## Hey there👋
 <!-- The main banner image -->
 <p align="center">
   <img src="https://github.com/malak-muradd/malak-muradd/raw/main/8cf82ee02898dbaafff789f534bf6547.jpg" alt="Banner" width="100%">
 </p>
 
 <!-- The centered greeting -->
-<h1 align="center">Hey dude, I'm mals </h1>
+<h1 align="center">Hey, I'm mals </h1>
 <h3 align="center">A (trying hard to love )data science student </h3>
 
 <!-- Profile views counter badge -->
